@@ -2,6 +2,6 @@
 
 Created with CodeSandbox
 
-Show the latest time in the <h1> when the Get Time button is pressed.
+Show the latest time when the Get Time button is pressed.
 
 using setInterval to update the time every second?
